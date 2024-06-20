@@ -1,0 +1,235 @@
+@font-face {
+    font-family: 'WarhavenB';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2312-1@1.1/WarhavenB.woff2') format('woff2');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KOTRA_GOTHIC';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/KOTRA_GOTHIC.woff') format('woff');
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap01{
+    width: 100%;
+    height: 1080px;
+}
+.box01{
+    width: 1920px;
+    height: 1080px;
+    margin: auto;
+    position: relative;
+}
+.cont01{
+    width: 100%;
+    height: 1080px;
+}
+.cont02{
+    width: 135px;
+    height: 22px;
+    top: 19px;
+    left: 434px;
+    position: absolute;
+}
+.cont03{
+    width: 135px;
+    height: 401px;
+    top: 176px;
+    left: 501px;
+    position: absolute;
+}
+.cont04{
+    width: 135px;
+    height: 22px;
+    top: 317px;
+    left: 1043px;
+    position: absolute;
+}
+.wrap02{
+    width: 100%;
+    height: 369px;
+}
+.box02{
+    width: 1920px;
+    height: 170px;
+    background-color: #190B0A;
+    margin: auto;
+    top: 100px;
+    position: relative;
+}
+.cont05{
+    color: #FFFFFF;
+    font-family: "WarhavenB";
+    font-size: 70px;
+    font-weight: 700;
+    letter-spacing: 60px;
+    line-height: 56px;
+    text-align: center;
+    top: 52px;
+    right: 818px;
+    position: absolute;
+}
+
+.wrap03{
+    width: 100%;
+    height: 1051px;
+}
+.box03{
+    width: 1920px;
+    height: 1051px;
+    margin: auto;
+    position: relative;
+}
+.cont06{
+    width: 1920px;
+    height: 1051px;
+    margin: 0;
+    position: absolute;
+}
+.cont07{
+    color: #FFFFFF;
+    font-family: "KOTRA_GOTHIC";
+    font-size: 40px;
+    font-weight: normal;
+    letter-spacing: -0.4px;
+    line-height: 75px;
+    text-align: right;
+    bottom: 43px;
+    right: 440px;
+    position: absolute;
+}
+.wrap04{
+    width: 100%;
+    height: 1675px;
+}
+.box04{
+    width: 1920px;
+    height: 95px;
+    margin: auto;
+    background-color: #912D29;
+    position: relative;
+}
+.cont08{
+    width: 528px;
+    height: 149px;
+    top: 137px;
+    left: 696px;
+    position: absolute;
+}
+.cont09{
+    width: 441px;
+    height: 809px;
+    top: 420px;
+    left: 757px;
+    position: absolute;
+}
+.cont10{
+    width: 528px;
+    height: 149px;
+    top: 1397px;
+    left: 696px;
+    position: absolute;
+}
+.box05{
+    width: 1920px;
+    height: 100px;
+    margin: auto;
+    top: 4078px;
+    background-color: #912D29;
+    position: absolute;
+}
+.wrap05{
+    width: 100%;
+    height: 1042px;
+}
+.box06{
+    width: 1920px;
+    height: 1042px;
+    margin: auto;
+    background-color: #F6CD95;
+    position: relative;
+}
+.cont11{
+    width: 790px;
+    height: 790px;
+    top: 126px;
+    left: 739px;
+    position: absolute;
+}
+.cont12{
+    width: 360px;
+    height: 182px;
+    top: 285px;
+    left: 486px;
+    position: absolute;
+}
+.wrap06{
+    width: 100%;
+    height: 1979px;
+}
+.box07{
+    width: 1920px;
+    height: 1979px;
+    margin: auto;
+    position: relative;
+}
+.cont13{
+    width: 528px;
+    height: 149px;
+    top: 238px;
+    left: 696px;
+    position: absolute;
+}
+.cont14{
+    width: 1100px;
+    height: 885px;
+    top: 547px;
+    left: 410px;
+    position: absolute;
+}
+.cont15{
+    width: 528px;
+    height: 149px;
+    bottom: 238px;
+    left: 696px;
+    position: absolute;
+}
+.wrap07{
+    width: 100%;
+    height: 1080px;
+}
+.box08{
+    width: 1920px;
+    height: 1080px;
+    margin: auto;
+    background-image: url(img/img15.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.cont16{
+    width: 1119px;
+    height: 804px;
+    margin: 0 auto;
+    top: 214px;
+    left: 410px;
+    position: absolute;
+}
+/* .box09{
+    width: 83px;
+    height: 1230px;
+    margin: auto;
+    background-color:#912E29;
+    position: absolute;
+}
+.box10{
+    width: 83px;
+    height: 1230px;
+    margin: auto;
+    right: 0px;
+    background-color:#912E29;
+    position: absolute;
+} */
